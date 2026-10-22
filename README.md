@@ -1,33 +1,31 @@
-<div align="center">
+ <div align="center">
 
 <!-- Add your own cyber-themed banner as banner.png in the repository root -->
 <img src="./banner.png" alt="Habiburrahman Khan | Cybersecurity and AI" width="100%" />
 
-<h1>Hi 👋, I'm Habiburrahman Khan</h1>
+<h1 style="color:#CDFFB3;">Hi 👋, I'm Habiburrahman Khan</h1>
 
-<h3>Computer Engineering Student · Aspiring Cybersecurity Engineer · AI Developer</h3>
+<h3 style="color:#CDFFB3;">Computer Engineering Student · Aspiring Cybersecurity Engineer · AI Developer</h3>
 
-<p>
+<p style="color:#CDFFB3;">
   Passionate about cybersecurity, artificial intelligence, Linux systems, and building technology that solves real-world problems.
 </p>
 
 <p>
   <a href="https://github.com/K-Habiburrahman">
-    <img src="https://img.shields.io/badge/GitHub-K--Habiburrahman-111827?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-K--Habiburrahman-002903?style=for-the-badge&logo=github&logoColor=CDFFB3" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/khwaja-habiburrahman-khan-4b10aa355">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-002903?style=for-the-badge&logo=linkedin&logoColor=CDFFB3" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=K-Habiburrahman&style=for-the-badge&color=00D9FF" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=K-Habiburrahman&style=for-the-badge&color=002903&labelColor=002903" alt="Profile views"/>
 </p>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=Build.+Learn.+Secure.+Innovate.;Exploring+Cybersecurity+%26+AI;Turning+Ideas+Into+Practical+Projects" alt="Animated tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=CDFFB3&center=true&vCenter=true&width=650&lines=Build.+Learn.+Secure.+Innovate.;Exploring+Cybersecurity+%26+AI;Turning+Ideas+Into+Practical+Projects" alt="Animated tagline"/>
 </a>
 
 </div>
-
----
 
 <table>
 <tr>
@@ -47,15 +45,15 @@
 
 <h2>🔗 Connect</h2>
 
-**LinkedIn**  
-[Connect professionally ↗](https://www.linkedin.com/in/khwaja-habiburrahman-khan-4b10aa355)
+LinkedIn  
+Connect professionally ↗
 
-**GitHub**  
-[Explore my repositories ↗](https://github.com/K-Habiburrahman)
+GitHub  
+Explore my repositories ↗
 
 <p align="center">
   <a href="https://github.com/K-Habiburrahman">
-    <img src="https://img.shields.io/badge/Let's_build_something-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Let's collaborate"/>
+    <img src="https://img.shields.io/badge/Let's_build_something-CDFFB3?style=for-the-badge&logo=github&logoColor=002903&labelColor=002903" alt="Let's collaborate"/>
   </a>
 </p>
 
@@ -64,121 +62,123 @@
 
 <h2>💻 Tech Stack</h2>
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Systems & Tools**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="Figma" />
+</p>
 
 </td>
 </tr>
 </table>
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ CyberMonitor
+<h3>🛡️ CyberMonitor</h3>
 
 A local Windows endpoint security-monitoring system that tracks running processes, network connections, open ports, system events, and security alerts through an interactive dashboard.
 
 **Stack:** Python · psutil · FastAPI · React · SQLite
 
-[**↗ View Project**](https://github.com/K-Habiburrahman/CyberMonitor)
+↗ View Project
 
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ Nayak — Legal Assistant
+<h3>⚖️ Nayak — Legal Assistant</h3>
 
 An AI-powered multilingual legal assistant designed to make Indian law more accessible through conversational interaction, RAG, and legal document references.
 
 **Stack:** React · Python · AI/ML · RAG
 
-[**↗ View Project**](https://github.com/K-Habiburrahman/Nyay_Sahayak)
+↗ View Project
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌦️ ATMOS // Weather Core
+<h3>🌦️ ATMOS // Weather Core</h3>
 
 An ESP8266-based IoT system that collects environmental data and displays weather and air-quality readings.
 
 **Stack:** ESP8266 · Arduino · DHT11 · MQ135
 
-[**↗ View Project**](https://github.com/K-Habiburrahman/Weather_Station)
+↗ View Project
 
 </td>
 <td width="50%" valign="top">
 
-### 🕌 Bait Al-Hikmah Digital Exhibition
+<h3>🕌 Bait Al-Hikmah Digital Exhibition</h3>
 
 An interactive educational exhibition documenting the scientific, mathematical, medical, and technological contributions of scholars of the Islamic Golden Age.
 
-[**↗ Explore Exhibition**](https://medieval-muslim-scientists.vercel.app/)
+↗ Explore Exhibition
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Resume Builder
+<h3>🤖 AI Resume Builder</h3>
 
 An AI-assisted resume-building platform with professional resume creation and AI-powered mock interview preparation.
 
 **Stack:** React · Python · FastAPI · JavaScript · CSS
 
-[**↗ View Project**](https://github.com/K-Habiburrahman/AI-Resume-Builder)
+↗ View Project
 
 </td>
 <td width="50%" valign="top">
 
-### 🧰 My ToolBox
+<h3>🧰 My ToolBox</h3>
 
 An all-in-one web toolkit for QR generation, image conversion, PDF creation, audio conversion, developer utilities, color tools, and unit conversion.
 
 **Stack:** HTML · CSS · JavaScript · Web APIs
 
-[**↗ Browse My Repositories**](https://github.com/K-Habiburrahman?tab=repositories)
+↗ Browse My Repositories
 
 </td>
 </tr>
 </table>
 
-## 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <div align="center">
 
 <a href="https://github.com/K-Habiburrahman">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=K-Habiburrahman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=K-Habiburrahman&show_icons=true&bg_color=002903&title_color=CDFFB3&text_color=CDFFB3&icon_color=CDFFB3&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/K-Habiburrahman">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Habiburrahman&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Habiburrahman&layout=compact&bg_color=002903&title_color=CDFFB3&text_color=CDFFB3&icon_color=CDFFB3&hide_border=true" alt="Top languages"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/K-Habiburrahman">
-  <img src="https://streak-stats.demolab.com?user=K-Habiburrahman&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=K-Habiburrahman&background=002903&ring=CDFFB3&fire=CDFFB3&currStreakLabel=CDFFB3&sideLabels=CDFFB3&currStreakNum=CDFFB3&sideNums=CDFFB3&dates=CDFFB3&hide_border=true" alt="GitHub contribution streak"/>
 </a>
 
 </div>
 
-## 🎯 Current Focus
+<h2>🎯 Current Focus</h2>
 
 <table>
 <tr>
@@ -198,11 +198,9 @@ An all-in-one web toolkit for QR generation, image conversion, PDF creation, aud
 </tr>
 </table>
 
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<h3>⭐ Thanks for visiting my profile!</h3>
 
 Feel free to explore my projects, share ideas, and connect for collaboration.
 
